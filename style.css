@@ -1,0 +1,9 @@
+table,td,th{
+    border: 2px solid rgb(255, 80, 80);
+    border-collapse: collapse;
+    width: 200px;
+
+   
+}
+
+    
